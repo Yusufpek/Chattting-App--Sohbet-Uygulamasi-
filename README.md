@@ -2,10 +2,11 @@
 C# dilinde FireSharp kütüphanesi ile kodladığım sohbet uygulaması
 
 Firebase veri tabanı ve C# dili ile geliştirilmiştir (FireSharp kütüphanesi kullanarak).
--Anlık kullanıcıları veri tabanına kaydeder.
--Her mesajı veri tabanına kaydeder.
--Eğer aktif kullanıcılardan herhangi biri çıkış yaparsa veri tabanı kişinin verisini siler ancak mesajlarına dokunmaz.
--Sadece ortak chat vardır özel mesaj yoktur.
+    
+    -Anlık kullanıcıları veri tabanına kaydeder.
+    -Her mesajı veri tabanına kaydeder.
+    -Eğer aktif kullanıcılardan herhangi biri çıkış yaparsa veri tabanı kişinin verisini siler ancak mesajlarına dokunmaz.
+    -Sadece ortak chat vardır özel mesaj yoktur.
 
 Veri tabanının yapısı:
 
